@@ -1,0 +1,16 @@
+api key: ''
+
+query: 'des_facet:[CATS]'
+
+fields:
+    - title
+    - url
+    - date
+    - body
+    - des_facet
+    - geo_facet
+    - nytd_geo_facet
+    
+max pages default: 200
+
+    
