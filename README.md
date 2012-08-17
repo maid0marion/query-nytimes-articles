@@ -6,7 +6,7 @@ Query NYTimes Articles
 Description
 ===========
 This tool uses the New York Times (NYT) [Arcticle Search API](http://developer.nytimes.com/docs/read/article_search_api)
-to query their online repository of stories dating from 1981 to present date.  The tool writes the query output to a CSV in the same directory making it easy make an interactive viz using your platform of choice.
+to query their online repository of article metadata dating from 1981 to present date.  The tool writes the metadata query output to a CSV in the same directory making it easy make an interactive viz using your platform of choice.
 
 Setup Requirements
 ==================
